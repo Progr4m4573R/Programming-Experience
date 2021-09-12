@@ -56,3 +56,9 @@ Big Data -
 
 Autonomous Mobile robotics - 
 1. Develop a reactive robot behaviour programmed in Python using ROS(Robot Operating System) that enables a robot to find a goal in a maze utilising the robot's sensors(LIDAR, Odometry and camera).
+
+Arduino -
+1. Using the mega 2560 starter kit i have familarised myself with most components and syntax
+
+Java -
+1. Using Netbeans i have written various simple code, become familiar with the Java structure up to classes
