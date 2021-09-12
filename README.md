@@ -18,3 +18,13 @@ Programming and Data structures -
 1. using C# create a program which manually read in data from a .csv file and then calculates some summary statistics such as averages of the data when different filters are applied which only target data from certain groups.
 2.Converting a colour value from HEXIDECIMAL to an RGB value with C#.
 3.Creating a game using multiple classes, methods and standard C++ practices such as error handling, exception handling to create a game that runs cleanly and can run from start to end without problems..
+
+Scalable Database Systems - 
+1. Designing a database for a repair services company. Appraise and analyse a case study then explain how the system works while indentifying a reasonable list of services and prices. Create a DFD for the system and identify entities, relationships, initial conceptual design, preliminary design of entity types and preliminary design of relationship types. Drawn an ER model
+
+Network Fundamentals - 
+1.Creating and modifying networks using cisco packet tracer
+
+Internet of Things - 
+1.Propose the desing and inmpementation approaches for an IOT prototype that is well considered regrading functionality and interaction it provides users. 
+2.Create and deploy an IOT hub ro recieve and ingest simulated network sensor data which is then saved to a suitable cloud storage service by crating an IoT hub trigger.
