@@ -44,3 +44,4 @@ Project -
 Machine Learning -
 1. Solve a polynomial regresison example using only pandas library for data management, scikit learn and other pre-built libraries are prohibited.
 2. Analyse a dataset comprising a number of cancer screening tests. load in the dataset and report summary statistics and then proceed to data pre-processing. To visualise the data two plots are to be used, the first a boxplot, the second a density plot. Next is discussion on selectiong an algorithm. The best performing machine learning model has to be chosen amongst  group of trained models. Lastly, an ANN has to be designed for classifying patients as healthy or cancerous based on their clinical features.
+The best performing model has to be chosen and explained.
