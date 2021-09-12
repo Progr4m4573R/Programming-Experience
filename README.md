@@ -16,15 +16,31 @@ Web authoring module -
 
 Programming and Data structures - 
 1. using C# create a program which manually read in data from a .csv file and then calculates some summary statistics such as averages of the data when different filters are applied which only target data from certain groups.
-2.Converting a colour value from HEXIDECIMAL to an RGB value with C#.
-3.Creating a game using multiple classes, methods and standard C++ practices such as error handling, exception handling to create a game that runs cleanly and can run from start to end without problems..
+2. Converting a colour value from HEXIDECIMAL to an RGB value with C#.
+3. Creating a game using multiple classes, methods and standard C++ practices such as error handling, exception handling to create a game that runs cleanly and can run from start to end without problems..
 
 Scalable Database Systems - 
 1. Designing a database for a repair services company. Appraise and analyse a case study then explain how the system works while indentifying a reasonable list of services and prices. Create a DFD for the system and identify entities, relationships, initial conceptual design, preliminary design of entity types and preliminary design of relationship types. Drawn an ER model
 
 Network Fundamentals - 
-1.Creating and modifying networks using cisco packet tracer
+1. Creating and modifying networks using cisco packet tracer
 
 Internet of Things - 
-1.Propose the desing and inmpementation approaches for an IOT prototype that is well considered regrading functionality and interaction it provides users. 
-2.Create and deploy an IOT hub ro recieve and ingest simulated network sensor data which is then saved to a suitable cloud storage service by crating an IoT hub trigger.
+1. Propose the desing and inmpementation approaches for an IOT prototype that is well considered regrading functionality and interaction it provides users. 
+2. Create and deploy an IOT hub to recieve and ingest simulated network sensor data which is then saved to a suitable cloud storage service by crating an IoT hub trigger. This was done using YAML and jinja files.
+
+Artifitial intelligence -
+1. Independent and individual implementation of solutions to AI planning problems using  PDDL to move into a room and complete a series of instructions. The goal was to write a PDDL domain that can solve a planning problem for floor-cleaning robots.A set of robots has the task to clean floor tiles. The robots can move
+around the floor tiles in four directions (up, down, left and right). Robots have a brush
+mounted at the front and at the back, so they can clean in front and behind them (up
+and down, respectively), but they cannot turn around. The robots, however, cannot
+drive on wet surfaces, so they must never drive onto tiles they have already cleaned
+(and are therefore wet).
+
+Project -  
+1. Optimising the efficincy of a swarm robot navigation algorithm using ARGoS simulator. This involved increasing the swarm completion rate (number of robots that complete the task) of a robot swarm while increasing the speed of task completion.
+2. Using matlab to compare the performances of an enhanced swarm algorithm versus the original algorithm
+
+Machine Learning -
+1. Solve a polynomial regresison example using only pandas library for data management, scikit learn and other pre-built libraries are prohibited.
+2. Analyse a dataset comprising a number of cancer screening tests. load in the dataset and report summary statistics and then proceed to data pre-processing. To visualise the data two plots are to be used, the first a boxplot, the second a density plot. Next is discussion on selectiong an algorithm. The best performing machine learning model has to be chosen amongst  group of trained models. Lastly, an ANN has to be designed for classifying patients as healthy or cancerous based on their clinical features.
