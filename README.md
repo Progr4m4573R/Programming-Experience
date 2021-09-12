@@ -27,7 +27,7 @@ Network Fundamentals -
 
 Internet of Things - 
 1. Propose the desing and inmpementation approaches for an IOT prototype that is well considered regrading functionality and interaction it provides users. 
-2. Create and deploy an IOT hub to recieve and ingest simulated network sensor data which is then saved to a suitable cloud storage service by crating an IoT hub trigger. This was done using YAML and jinja files.
+2. Create and deploy an IOT hub to recieve and ingest simulated network sensor data which is then saved to a suitable cloud storage service by crating an IoT hub trigger. This was done using the Google development manager
 
 Artifitial intelligence -
 1. Independent and individual implementation of solutions to AI planning problems using  PDDL to move into a room and complete a series of instructions. The goal was to write a PDDL domain that can solve a planning problem for floor-cleaning robots.A set of robots has the task to clean floor tiles. The robots can move
@@ -45,3 +45,14 @@ Machine Learning -
 1. Solve a polynomial regresison example using only pandas library for data management, scikit learn and other pre-built libraries are prohibited.
 2. Analyse a dataset comprising a number of cancer screening tests. load in the dataset and report summary statistics and then proceed to data pre-processing. To visualise the data two plots are to be used, the first a boxplot, the second a density plot. Next is discussion on selectiong an algorithm. The best performing machine learning model has to be chosen amongst  group of trained models. Lastly, an ANN has to be designed for classifying patients as healthy or cancerous based on their clinical features.
 The best performing model has to be chosen and explained.
+
+Cloud computing - 
+1. Design and develop a cloud 'infrastructure-as-code' solution for a business scenario using YAML and Jinja
+2. Select and describe cloud computing models, usign justification on selecting suitable clud-based services that fall under the selected cloud model for a large business wanting to migrate and upgrade its data storage and other associated services to support ongoing business expansion.
+
+Big Data - 
+1.  Analyse a city-cycle fuel comsumption in miles per gallon in terms of a number of attributes, using linear regression and statistical analysis techniques in MATLAB. No built in libraries can be used. All code and functions must be hand written from scratch.
+2.  Analyse a dataset of pressurised water reactors with various easurements in different parts of reactors. Create a summary statistics of the data and show in a table, the correlation matrix of the features where each element in the matrix shows the correlation coefficient of two features. Do a classification and analysis of the dataset by splitting it into a train and test set then train a decisiont ree, support vector machine model and an artificial neural network using the training set and applu the trained classifiers to the test set. 
+
+Autonomous Mobile robotics - 
+1. Develop a reactive robot behaviour programmed in Python using ROS(Robot Operating System) that enables a robot to find a goal in a maze utilising the robot's sensors(LIDAR, Odometry and camera).
