@@ -1,4 +1,5 @@
 # Programming-Experience
+A collection of all the assignments i have done while at the university of lincoln and in my own time.
 
 Parallel programming module - using OpenCL with C++ to create a simple program for analysing a large amount of data. This used parallel hardware and the implementation of a parallel software component written in OpenCL to return data such as memory transfer, kernel execution and total program execution times for performance assessment.
 Advanced programming module - using C++ to develop a simple tool for defining and handling basic geometric shapes in 2D. This used inheritance, classes, methods virtual classes and more to apply the concepts of advanced software development and programming methods.
