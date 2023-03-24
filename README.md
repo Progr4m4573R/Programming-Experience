@@ -52,7 +52,7 @@ Cloud computing -
 
 Big Data - 
 1.  Analyse a city-cycle fuel comsumption in miles per gallon in terms of a number of attributes, using linear regression and statistical analysis techniques in MATLAB. No built in libraries can be used. All code and functions must be hand written from scratch.
-2.  Analyse a dataset of pressurised water reactors with various easurements in different parts of reactors. Create a summary statistics of the data and show in a table, the correlation matrix of the features where each element in the matrix shows the correlation coefficient of two features. Do a classification and analysis of the dataset by splitting it into a train and test set then train a decisiont ree, support vector machine model and an artificial neural network using the training set and applu the trained classifiers to the test set. 
+2.  Analyse a dataset of pressurised water reactors with various Measurements in different parts of reactors. Create a summary statistics of the data and show in a table, the correlation matrix of the features where each element in the matrix shows the correlation coefficient of two features. Do a classification and analysis of the dataset by splitting it into a train and test set then train a decision tree, support vector machine model and an artificial neural network using the training set and apply the trained classifiers to the test set. 
 
 Autonomous Mobile robotics - 
 1. Develop a reactive robot behaviour programmed in Python using ROS(Robot Operating System) that enables a robot to find a goal in a maze utilising the robot's sensors(LIDAR, Odometry and camera).
