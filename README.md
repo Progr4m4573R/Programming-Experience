@@ -20,7 +20,7 @@ Programming and Data structures -
 3. Creating a game using multiple classes, methods and standard C++ practices such as error handling, exception handling to create a game that runs cleanly and can run from start to end without problems..
 
 Scalable Database Systems - 
-1. Designing a database for a repair services company. Appraise and analyse a case study then explain how the system works while indentifying a reasonable list of services and prices. Create a DFD for the system and identify entities, relationships, initial conceptual design, preliminary design of entity types and preliminary design of relationship types. Drawn an ER model
+1. Designing a database for a repair services company. Appraise and analyse a case study then explain how the system works while indentifying a reasonable list of services and prices. Create a DFD for the system and identify entities, relationships, initial conceptual design, preliminary design of entity types and preliminary design of relationship types. Drawn an ER model for the database and then created a database in SQL that was read in and manipulated with phpmyadmin
 
 Network Fundamentals - 
 1. Creating and modifying networks using cisco packet tracer
